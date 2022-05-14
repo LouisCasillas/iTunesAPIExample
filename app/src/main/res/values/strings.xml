@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">FragmentExample</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">DynamicFragment</string>
+    <string name="app_name">ITunes Song Finder</string>
 </resources>

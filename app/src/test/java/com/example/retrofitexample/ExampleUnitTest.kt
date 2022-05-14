@@ -1,4 +1,4 @@
-package com.example.fragmentexample
+package com.example.retrofitexample
 
 import org.junit.Test
 
